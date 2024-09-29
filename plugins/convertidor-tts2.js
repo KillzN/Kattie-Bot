@@ -2,7 +2,7 @@
 
         [ ❗ ] CREDITOS - NO MODIFICAR [ ❗ ]
 
-           Codigo hecho por @𝐊𝐈𝐋𝐋𝐙𝐍
+           Codigo hecho por @𝙆𝙖𝙩𝙩𝙞𝙚’𝙨
        Github: https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
        
        Nota: Solo hay disponibles efectos en

@@ -1,4 +1,4 @@
-// 𝐊𝐈𝐋𝐋𝐙𝐍@𝐊𝐈𝐋𝐋𝐙𝐍 - descargas-spotifypro.js
+// 𝙆𝙖𝙩𝙩𝙞𝙚’𝙨@𝙆𝙖𝙩𝙩𝙞𝙚’𝙨 - descargas-spotifypro.js
 // Creditos de los tags a @darlyn1234 y diseño a @ALBERTO9883
 // Este plugins descarga por texto, album, track o playlist de spotify.
 import pkg from 'sanzy-spotifydl'; 
